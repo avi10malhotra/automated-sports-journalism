@@ -3,6 +3,8 @@ This is the repository of my final year project at the City University of Hong K
 
 To view the website, please click [here](https://avi10malhotra.github.io/).
 
+The GitHub repository for the project can be found [here](https://github.com/avi10malhotra/Final-Year-Project).
+
 ---
 ## match_commentary
 This folder contains a list of csv files, 64 in total. Each file contains the match commentary of a single match.
