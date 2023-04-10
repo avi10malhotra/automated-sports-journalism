@@ -1,0 +1,119 @@
+.card {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
+}
+
+/* Define font family */
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif
+}
+  
+  /* Set background color */
+body {
+	background-color: #f2f2f2;
+}
+  
+  /* Style the header */
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	top: 0;
+	left: 0;
+}
+  
+h1, h2 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 30px;
+}
+  
+  /* Style the search box */
+input[type="search"] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 2px;
+	border-bottom: 2px solid #ccc;
+	font-size: 16px;
+	color-scheme: white;
+
+}
+  
+  /* Style the search button */
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	font-size: 16px;
+}
+  
+button:hover {
+	opacity: 0.8;
+}
+  
+  /* Style the card list */
+#card-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	padding: 20px;
+}
+  
+.card {
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0px 2px 2px #ccc;
+	margin-bottom: 20px;
+	padding: 20px;
+	width: calc(33.33% - 10px);
+}
+  
+.card h2 {
+	font-size: 25px;
+	margin: 0;
+}
+  
+.card p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+.card:hover {
+	background-color: #333;
+	color: #fff;
+}
+  
+.card {
+	overflow: hidden;
+	transition: all 0.3s ease-in-out;
+}
+  
+.card:hover {
+	height: auto;
+}
+  
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: left;
+	bottom: 0;
+	left: 0;
+}
+
+
