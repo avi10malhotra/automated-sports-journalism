@@ -31,7 +31,7 @@ This folder contains the survey data for the 4 chosen sample commentaries and th
 ## quant_assessment
 - comparisons.py: This script contains the code used to compare the generated commentaries with the sample commentaries. It saves the results to [scores.txt](quant_assessment/scores.txt).
 - graphs.py: This script generates the [heatmap.png](quant_assessment/heatmap.png), [semantic similarity.png](quant_assessment/semantic%20similarity.png), and [word count comparisons.png](quant_assessment/word%20count%20comparisons.png) graphs.
-- test.py: This script collects all data from [testing](testing) and [summaries](summaries) and stores them to txt files ([summary_file.txt](summary_file.txt) and [testing_file.txt](testing_file.txt)) for further analysis.
+- test.py: This script collects all data from [testing](testing) and [summaries](summaries) and stores them to txt files ([summary_file.txt](quant_assessment/summary_file.txt) and [testing_file.txt](quant_assessment/testing_file.txt)) for further analysis.
 
 ---
 ## summaries
