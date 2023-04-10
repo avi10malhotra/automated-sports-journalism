@@ -1,0 +1,65 @@
+Match	Similarity Score	Summary Length	Unique Words in Summary	Sample Commentary Length	Unique Words in Sample Commentary	Full Commentary Length	Unique Words in Full Commentary
+Argentina vs Australia	0.485	158	100	258	178	1448	645
+Argentina vs Croatia	0.513	65	49	257	170	1775	764
+Argentina vs France	0.37	82	69	425	234	3516	1084
+Argentina vs Mexico	0.542	93	70	195	134	1407	602
+Argentina vs Saudi Arabia	0.485	140	93	255	155	1877	682
+Australia vs Denmark	0.47	116	85	160	104	1258	511
+Belgium vs Canada	0.44	56	44	105	78	1354	600
+Belgium vs Morocco	0.308	58	51	121	91	1428	635
+Brazil vs Serbia	0.388	78	62	183	124	1559	646
+Brazil vs South Korea	0.603	55	46	289	161	1617	628
+Brazil vs Switzerland	0.325	76	59	164	115	1829	727
+Cameroon vs Brazil	0.324	106	83	160	122	2520	907
+Cameroon vs Serbia	0.691	115	86	426	248	1831	729
+Canada vs Morocco	0.271	80	66	206	150	1655	714
+Costa Rica vs Germany	0.574	96	73	476	273	2160	814
+Croatia vs Belgium	0.586	84	68	108	75	1759	709
+Croatia vs Brazil	0.534	113	79	270	165	2098	748
+Croatia vs Canada	0.599	88	66	414	251	1793	745
+Croatia vs Morocco (17 Dec 22)	0.41	90	62	272	166	1863	721
+Denmark vs Tunisia	0.553	89	64	160	109	1360	588
+Ecuador vs Senegal	0.493	84	64	252	150	1707	683
+England vs France	0.195	84	62	247	151	2171	837
+England vs Iran	0.276	91	70	545	273	1979	729
+England vs Senegal	0.391	79	64	299	183	2019	822
+England vs United States	0.222	66	53	55	48	1192	524
+France vs Australia	0.502	46	42	255	170	1699	738
+France vs Denmark	0.481	95	74	281	190	1829	748
+France vs Morocco	0.641	90	68	241	157	1850	720
+France vs Poland	0.604	78	64	316	186	2184	804
+Germany vs Japan	0.331	64	52	180	124	2440	932
+Ghana vs Uruguay	0.698	87	67	224	142	2466	854
+Iran vs United States	0.71	67	51	125	90	1429	582
+Japan vs Costa Rica	0.264	96	75	157	113	1419	625
+Japan vs Croatia	0.584	148	103	237	154	1891	651
+Japan vs Spain	0.503	66	46	197	124	1462	635
+Mexico vs Poland	0.597	71	57	81	61	1419	609
+Morocco vs Croatia (23 Nov 22)	0.565	64	53	68	58	1387	602
+Morocco vs Portugal	0.416	76	61	125	102	1961	823
+Morocco vs Spain	0.511	110	78	137	94	1617	633
+Netherlands vs Argentina	0.719	65	51	286	184	2969	1036
+Netherlands vs Ecuador	0.723	65	49	148	103	1654	685
+Netherlands vs Qatar	0.278	62	53	190	133	1508	593
+Netherlands vs United States	0.63	79	55	324	204	1936	835
+Poland vs Argentina	0.63	55	47	122	88	1773	726
+Poland vs Saudi Arabia	0.662	54	43	121	84	1417	633
+Portugal vs Ghana	0.544	127	91	432	244	2088	774
+Portugal vs Switzerland	0.566	62	50	303	179	1692	661
+Portugal vs Uruguay	0.591	81	63	208	136	1852	717
+Qatar vs Ecuador	0.495	104	77	233	153	1409	567
+Qatar vs Senegal	0.527	69	55	294	166	2087	723
+Saudi Arabia vs Mexico	0.377	94	70	252	163	2359	803
+Senegal vs Netherlands	0.533	37	34	126	88	1469	644
+Serbia vs Switzerland	0.597	47	39	240	159	1942	768
+South Korea vs Ghana	0.597	112	78	320	171	1885	656
+South Korea vs Portugal	0.305	90	70	216	143	1435	522
+Spain vs Costa Rica	0.55	68	58	461	269	2128	829
+Spain vs Germany	0.639	75	55	140	92	1510	651
+Switzerland vs Cameroon	0.671	92	67	199	122	1452	577
+Tunisia vs Australia	0.683	55	49	140	99	1508	596
+Tunisia vs France	0.436	60	54	173	118	1939	797
+United States vs Wales	0.495	77	54	204	148	1654	714
+Uruguay vs South Korea	0.346	105	76	123	92	1200	501
+Wales vs England	0.632	63	48	234	160	1733	770
+Wales vs Iran	0.55	54	45	76	64	1558	655
