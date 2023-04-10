@@ -1,7 +1,7 @@
 # Final Year Project
 This is the repository of my final year project at the City University of Hong Kong. The purpose of this README is to summarize all the files in this repository.
 
-To view the website, please click [here](website/site.html).
+To view the website, please click [here](https://avi10malhotra.github.io/).
 
 ---
 ## match_commentary
@@ -43,7 +43,7 @@ This folder contains the sample commentaries used for testing the generated comm
 
 ---
 ## website
-This folder contains the code used to generate the website.
+This folder contains the code used to generate the [website](https://avi10malhotra.github.io/).
 
 ---
 ### fetch_updates.py: 
